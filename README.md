@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Proyectos de Machine Learning
 
 Proyectos de machine learning en Python con scikit-learn.
 
